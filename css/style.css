@@ -1,0 +1,61 @@
+.ragaca{
+    margin-left: 70px;
+}
+.text-danger {
+    margin: 0 auto;
+}
+.wrapper {
+    max-width: 1468px;
+    margin: 0 auto;
+    margin-top: 66px;
+    margin-bottom: 112px;
+}
+.fa-quote-left {
+    color: #A80E0E;
+    font-size: 100px;
+    margin-left: 70px;
+}
+.poto {
+    margin-top: 126px;
+}
+.hederi {
+    margin-bottom: 62px;
+}
+.kviteli {
+    width: 1450px;
+    margin: 0 auto;
+    height: 654px;
+}
+
+.box {
+    width: 326px;
+    height: 316px;
+    margin-top: 185px;
+    margin-bottom: 150px;
+}
+.box p {
+    width: 220px;
+    font-weight: lighter;
+}
+.box img {
+    width: 70px;
+}
+.img-size {
+    max-width: 670px;
+    width: 100%;
+}
+.section-margin {
+    margin-top: 126px;
+    margin-bottom: 102px;
+}
+
+.img-p {
+    max-width: 710px;
+    width: 100%;
+    margin-top: 60px;
+}
+.divider {
+    background-color: #FFAA00;
+    width: 60px;
+    height: 0.5px;
+}
